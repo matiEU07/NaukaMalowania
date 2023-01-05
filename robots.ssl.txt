@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.maszwybor.pl
+
+# Sitemaps
+Sitemap: https://www.maszwybor.pl/sitemap.xml
